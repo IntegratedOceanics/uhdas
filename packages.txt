@@ -1,7 +1,3 @@
-#
-# UHDAS deb list
-# from dpkg --get-selections
-#
 apt-dpkg-ref			install
 apt-listchanges		install
 apt-mirror			install
@@ -24,11 +20,11 @@ dh-make			install
 dpkg-dev			install
 fakeroot			install
 git-core			install
-git-doc				install
+git-doc			install
 gitk				install
 gparted			install
 hfsplus				install
-hfsutils				install
+hfsutils			install
 lftp				install
 mbr				install
 mercurial			install
